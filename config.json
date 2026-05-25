@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersender",
+        "uuid": 1619216,
+        "checksum": "5ik25"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
